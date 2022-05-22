@@ -37,5 +37,5 @@ pip install matplotlib
 To execute the script place the train-model.py file and the dataset(ADAUSDT.csv) in the same folder, then run the script:
 
 ```bash
-./train-model.py
+python train-model.py
 ```
