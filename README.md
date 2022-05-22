@@ -39,3 +39,5 @@ To execute the script place the train-model.py file and the dataset(ADAUSDT.csv)
 ```bash
 python train-model.py
 ```
+
+For more information about how it works access the <a href="https://github.com/nenomg/LSTM_CARDANO/wiki">Wiki</a>.
